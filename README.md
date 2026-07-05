@@ -137,7 +137,7 @@ xai-workspace/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/xai-workspace.git
+git clone https://github.com/Rincosa/xai-workspace
 cd xai-workspace
 
 # Install dependencies with legacy peer deps
