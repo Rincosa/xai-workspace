@@ -24,15 +24,7 @@
 - [Technology Stack](#-technology-stack)
 - [Project Structure](#-project-structure)
 - [Installation](#-installation)
-- [Development](#-development)
-- [Build & Deploy](#-build--deploy)
-- [Design System](#-design-system)
-- [Animation Architecture](#-animation-architecture)
-- [Performance](#-performance)
-- [Accessibility](#-accessibility)
-- [Browser Support](#-browser-support)
-- [Contributing](#-contributing)
-- [License](#-license)
+
 
 ---
 
